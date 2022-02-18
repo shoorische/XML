@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aboutme>
+<title>About Me</title
+	<fullname>
+		<firstname>Alexander</firstname>
+		<patronymic>Vladimirovich</patronymic>
+		<surname>Filichenok</surname>
+	</fullname>
+	<age>32</age>
+	<pets>1</pets>
+	<disiredsalary>500</disiredsalary>
+</aboutme>
