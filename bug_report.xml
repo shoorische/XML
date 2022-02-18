@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<project>project_name</project>
+<ID>1</ID>
+<created_date>17.02.2022</created_date>
+<summary>There is no logo on the welcome page</summary>
+<status>Open</status>
+<priority>Major</priority>
+<severity>minor</severity>
+<incident_type>Bug</incident_type>
+<description>If the administrator visits the welcome page, the logo disappears</description>
+</bug_report>
